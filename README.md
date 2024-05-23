@@ -14,4 +14,4 @@ black piece(s), returns, which black pieces can be taken.
 4. The input for both black and white pieces is expected in format `piece_name a1`, e.g., `rook f5`
 5. Program assumes that user will follow chessboard guidelines, that is, will place figure within (a-h) and (1-8).
 
-6. ### That's about it for now. Happy plays! 
+### That's about it for now. Happy plays! 
