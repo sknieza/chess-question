@@ -8,8 +8,8 @@ Program then evaluates the user input and, based on the position of white piece 
 black piece(s), returns, which black pieces can be taken.
 
 ## Now, some assumptions to make about this program:
-1. There are two submitted files. `chess_q.ipynb` notebook is provided only to illustrate the thinking the behind program code. Not all blocks work there as intended, some being revised in VSCode and not commited. The last block, however, is the acutal version of the code and should work fine.
-2. The script `chess_submit.py` is the actual working program, and last notebook's block mirrors it.
+1. There are two submitted files. `chess_q.ipynb` notebook is provided only to illustrate the thinking the behind program code. Not all blocks work there as intended, as some were revised in VSCode and not updated in Jupyter. The last block, however, is the acutal version of the code and should work fine.
+2. The script `chess_submit.py` is the actual working program, and the last notebook's block mirrors it.
 3. In this scope, program accepts only `pawn` and `rook` as available white pieces
 4. The input for both black and white pieces is expected in format `piece_name a1`, e.g., `rook f5`
 5. Program assumes that user will follow chessboard guidelines, that is, will place figure within (a-h) and (1-8).
